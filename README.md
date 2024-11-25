@@ -38,23 +38,13 @@ pip install python-dotenv
 OPENAI_API_KEY=your_api_key_here
 ```
 
-## Project Structure
-
-```
-.
-├── app.py              # Main application file
-├── .env               # Environment variables
-├── requirements.txt   # Project dependencies
-└── README.md         # Project documentation
-```
-
 ## How to Run
 
 1. Clone this repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/EverRunner/Multi-PDF-RAG-ChatBot.git
+cd Multi-PDF-RAG-ChatBot
 ```
 
 2. Install the required packages:
